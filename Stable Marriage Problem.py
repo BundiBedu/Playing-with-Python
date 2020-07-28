@@ -1,4 +1,9 @@
-#My implementation of the stable marriage problem
+# My implementation of the stable marriage problem
+'''
+This is a build-up of the previous project in C. It has some added features, the prominent one being that it can take input of names from the user. 
+It makes use of dictionary and lists for better readability and logic-building. 
+Also makes use of the itertools library for generating permutations.
+'''
 from itertools import permutations
 
 
